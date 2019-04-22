@@ -1,0 +1,12 @@
+Dagger
+Knife
+Sword
+Axe
+Rifle
+Shotgun
+Handgun
+Kitchen Knife
+Baseball bat
+Chainsaw
+Grinder
+Scissors
